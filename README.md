@@ -24,6 +24,4 @@ text). I have included sample text.
 Requires: Powershell, ServiceUI.exe
 
 Written by: Mark Hardy
-            mark.hardy@compucom.com
-            (310) 871-2493
             @hardymark
